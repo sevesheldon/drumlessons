@@ -56,3 +56,15 @@ div#wpcf7-f42-p5-o1 {
 
 }
 
+@media screen and (max-width: 480px){
+	
+	div#wpcf7-f42-p5-o1 {
+    	width: 100% !important;
+	}
+
+	div#wpgmza_map {
+		width: 100% !important;
+	}
+
+}
+
